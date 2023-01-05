@@ -21,10 +21,10 @@
 
 
 - 🏠 I'M from <b>INDIA</b>
-- 🌱 I’m currently studiying and working as<strong><i> Web and App Developer</i></strong>.
-- 👯 I’m looking to collaborate on various machine learning projects.
-- 💬 Ask me about React, React Native, Angular, Ionic - Angular or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @suryask](https://www.linkedin.com/in/surya-s-k-5162981a5))
+- 🌱 I’m currently studiying and working as<strong><i> Senior React Developer</i></strong>.
+- 👯 I’m looking to collaborate on various Frontent projects.
+- 💬 Ask me about React, React Native or any tech related stuff.
+- 📫 How to reach me: [Linkedin - @suryask](https://www.linkedin.com/in/surya-s-k-5162981a5/))
 - 😄 Pronouns: He/His.
 
 **Languages and Tools:**  
